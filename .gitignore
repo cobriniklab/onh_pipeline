@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+bin/
+data/
+output/
+onh_pipeline.Rproj
+laurali_output/
