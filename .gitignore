@@ -7,3 +7,5 @@ data/
 output/
 onh_pipeline.Rproj
 laurali_output/
+results/SCNA/SCNA_multisample_peak_genes_all_corrected.csv
+results/laurali_gnomad_annotated/ll_gno_anno_20170828.csv
